@@ -26,6 +26,7 @@ public class Calculator extends AppCompatActivity {
 
 
     ///khkhk
+    //sfdsk
     @Override
     protected void onResume() {
         super.onResume();
