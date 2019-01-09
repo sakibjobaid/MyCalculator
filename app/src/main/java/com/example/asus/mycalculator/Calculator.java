@@ -30,6 +30,11 @@ public class Calculator extends AppCompatActivity {
         super.onResume();
     }
 
+    @Override
+    protected void onStart() {
+        super.onStart();
+    }
+
     public void calculate(View v)
     {
 
