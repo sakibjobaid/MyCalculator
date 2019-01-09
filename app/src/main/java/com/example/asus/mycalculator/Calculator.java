@@ -25,6 +25,7 @@ public class Calculator extends AppCompatActivity {
     }
 
 
+    ///khkhk
     @Override
     protected void onResume() {
         super.onResume();
